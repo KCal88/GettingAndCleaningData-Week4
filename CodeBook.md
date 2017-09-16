@@ -5,7 +5,7 @@ date: "September 16, 2017"
 output: html_document
 ---
 
-##Data in tidydata.txt
+## Data in tidydata.txt
 
 The data in "tidydata.txt" represents the average values of a varialbe for a subject completing one of 6 activites, including: walking, walking upstairs, walking downstairs, sitting, standing, and laying down. The data were obtained from the "UCI HAR dataset"" available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
 
